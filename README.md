@@ -1,7 +1,4 @@
-# springboard-logistic-regression-case-study
-Unit 25 Logistic Regression Case Study
-
-# Logistic Regression Case Study
+# Unit 25 Logistic Regression Case Study
 
 ## Overview
 
